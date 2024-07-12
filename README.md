@@ -1,5 +1,15 @@
 # Disaster-Aid
 
+### Installation
+
+`docker run -d -p 27017:27017 --name mongo-chatui mongo:latest`
+
+yarn
+`yarn add sharp --ignore-engines`
+
+npm install --unsafe-perm
+npm install sharp --ignore-scripts
+
 ## Inspiration
 The increasing frequency and severity of natural disasters such as wildfires, floods, and hurricanes have created a pressing need for reliable, real-time information. Families, NGOs, emergency first responders, and government agencies often struggle to access trustworthy updates quickly, leading to delays in response and aid. Inspired by the need to streamline and verify information during crises, we developed Disasteraid.ai to provide concise, accurate, and timely updates.
 
